@@ -1,0 +1,15 @@
+Empty app
+Draw empty board
+Setup - placing ships:
+* show what ships left to be placed
+* place ship on-click
+* validate ships position on every place
+* switch users
+* select random player to start
+Game:
+* screen with 2 boards:
+  - players ships
+  - opponents ships
+* switching users
+* shooting + game end condition
+* graphics
