@@ -1,5 +1,5 @@
 import pygame
-from src.main.board import Board
+from src.board import Board
 WIDTH = 1600 #1800
 HEIGHT = 900 #800
 MARGIN = 75 #75

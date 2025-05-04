@@ -1,6 +1,6 @@
 import pygame
 
-from src.main.cell import Cell
+from sea_battle.src.cell import Cell
 
 SHIP_COLOR = (240, 0, 0)
 
